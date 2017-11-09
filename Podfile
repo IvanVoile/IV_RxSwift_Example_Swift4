@@ -5,4 +5,7 @@ target 'IV_RxSwift_Example' do
   pod 'Kingfisher'
   pod 'RxSwift'
   pod 'Moya'
+  pod 'Moya/RxSwift'
+  pod 'SwiftyJSON'
+  pod 'ObjectMapper'
 end
